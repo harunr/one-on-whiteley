@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icn-beg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-837.000000, -42.000000)">
+            <rect id="Rectangle-Copy-14" x="837" y="42" width="50" height="50"></rect>
+            <path d="M851,60 L851,74 L852.692308,74 L852.692308,72.25 C852.692308,71.725 853.030769,71.375 853.538462,71.375 L870.461538,71.375 C870.969231,71.375 871.307692,71.725 871.307692,72.25 L871.307692,74 L873,74 L873,67.875 L852.692308,67.875 L852.692308,60 L851,60 Z M853.908654,62.5976562 C853.68125,62.6113281 853.538462,62.625 853.538462,62.625 C853.538462,62.625 853.718269,64.9 855.072115,66.125 C856.425962,67.35 858.615385,67 858.615385,67 C858.615385,67 858.520192,64.6375 857.081731,63.5 C856.066346,62.58125 854.590865,62.5566406 853.908654,62.5976562 Z M859.461538,63.5 L859.461538,67 L873,67 L873,65.25 C873,64.2875 872.238462,63.5 871.307692,63.5 L859.461538,63.5 Z" id="icn-beg" fill="#737373" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

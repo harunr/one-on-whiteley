@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icn-arrow-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-137.000000, -42.000000)">
+            <rect id="Rectangle-Copy" x="137" y="42" width="50" height="50"></rect>
+            <path d="M169.26531,50.0205177 C168.93109,50.0578849 168.618854,50.2108321 168.379171,50.4545882 L153.454729,65.8882079 C153.164094,66.1789997 153,66.5793001 153,66.9974993 C153,67.4156985 153.164094,67.8159989 153.454729,68.1067907 L168.379171,83.5404104 C168.7624,83.9367639 169.321,84.091573 169.844536,83.9465181 C170.368072,83.8014633 170.777,83.3785838 170.91727,82.8371861 C171.057539,82.2957884 170.907837,81.7181308 170.52456,81.3218275 L156.672812,66.9974993 L170.52456,52.673171 C171.006116,52.2094199 171.13718,51.4742642 170.847203,50.8634182 C170.557227,50.2525722 169.914632,49.9101701 169.26531,50.0205177 L169.26531,50.0205177 Z" id="icn-arrow-left" fill="#EB1C23" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
